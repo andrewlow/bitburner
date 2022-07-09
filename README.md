@@ -1,2 +1,3 @@
 # bitburner
-Bitburner game scripts
+
+[Bitburner](https://danielyxie.github.io/bitburner/) game scripts
